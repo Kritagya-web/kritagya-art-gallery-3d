@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kritagya's Art Gallery</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="../static/assets/icons/art_gallery.ico"
+    />
+
+    <canvas id="drawing-canvas" width="2048" height="1024"></canvas>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="experience" id="container"></div>
+    <div class="dot"></div>
+    <div class="pause-menu">
+      <p style="font-size: 1.8em">PAUSE MENU</p>
+      <br />
+      <p>Use WASD to move and mouse to point and interact.</p>
+      <p>Press ESC to exit.</p>
+      <br />
+      <p id="resume-text"><strong>Click anywhere to resume.</strong></p>
+    </div>
+    <div id="trophy">
+      <img id="trophy_logo" alt="Imagen del trophy" />
+      <div id="textos">
+        <div id="containerFirstLine">
+          <img class="icono" alt="Icono" />
+          <span id="trophyText">Nombre del trophy</span>
+        </div>
+        <span id="subtrophyText">Trophy earned!</span>
+      </div>
+    </div>
+  </body>
+</html>
