@@ -2,24 +2,24 @@
 
 In this part of my portfolio, I aimed to recreate a virtual first-person experience of exploring an art gallery. To achieve this, I created first-person controls and integrated all my side projects as if they were part of the museum's exhibits.
 
-You can now explore it [here](https://kritagya-art-gallery.app/).
+You can now explore it [here](https://kritagya-art-gallery-3d.vercel.app/).
 
 ## Links
 
 ### Kritagya Kumra's Portfolio
 
-- [Source Code](https://github.com/jrefusta/kritagya-portfolio)
-- [Live Demo](https://kritagyaramosrefusta.com/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-3d-portfolio)
+- [Live Demo](https://kritagya-3d-portfolio.vercel.app/)
 
 ### kritagya's Arcade Machine
 
-- [Source Code](https://github.com/jrefusta/kritagya-arcade-machine)
-- [Live Demo](https://kritagya-arcade-machine.vercel.app/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-arcade-machine-3d)
+- [Live Demo](https://kritagya-arcade-machine-3d.vercel.app/)
 
 ### kritagya's OS
 
-- [Source Code](https://github.com/jrefusta/kritagya-os)
-- [Live Demo](https://kritagya-os.vercel.app/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-window10-os)
+- [Live Demo](https://kritagya-win10-os.vercel.app/)
 
 ## Setup
 
